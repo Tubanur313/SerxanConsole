@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Documents\PROJECTS\MINE\SerxanConsole\SerxanConsole\bin\Debug\net5.0\SerxanConsole.exe
+C:\Users\User\OneDrive\Documents\PROJECTS\MINE\SerxanConsole\SerxanConsole\bin\Debug\net5.0\SerxanConsole.deps.json
+C:\Users\User\OneDrive\Documents\PROJECTS\MINE\SerxanConsole\SerxanConsole\bin\Debug\net5.0\SerxanConsole.runtimeconfig.json
+C:\Users\User\OneDrive\Documents\PROJECTS\MINE\SerxanConsole\SerxanConsole\bin\Debug\net5.0\SerxanConsole.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Documents\PROJECTS\MINE\SerxanConsole\SerxanConsole\bin\Debug\net5.0\SerxanConsole.dll
+C:\Users\User\OneDrive\Documents\PROJECTS\MINE\SerxanConsole\SerxanConsole\bin\Debug\net5.0\ref\SerxanConsole.dll
+C:\Users\User\OneDrive\Documents\PROJECTS\MINE\SerxanConsole\SerxanConsole\bin\Debug\net5.0\SerxanConsole.pdb
+C:\Users\User\OneDrive\Documents\PROJECTS\MINE\SerxanConsole\SerxanConsole\obj\Debug\net5.0\SerxanConsole.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Documents\PROJECTS\MINE\SerxanConsole\SerxanConsole\obj\Debug\net5.0\SerxanConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documents\PROJECTS\MINE\SerxanConsole\SerxanConsole\obj\Debug\net5.0\SerxanConsole.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\PROJECTS\MINE\SerxanConsole\SerxanConsole\obj\Debug\net5.0\SerxanConsole.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\PROJECTS\MINE\SerxanConsole\SerxanConsole\obj\Debug\net5.0\SerxanConsole.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\PROJECTS\MINE\SerxanConsole\SerxanConsole\obj\Debug\net5.0\SerxanConsole.dll
+C:\Users\User\OneDrive\Documents\PROJECTS\MINE\SerxanConsole\SerxanConsole\obj\Debug\net5.0\ref\SerxanConsole.dll
+C:\Users\User\OneDrive\Documents\PROJECTS\MINE\SerxanConsole\SerxanConsole\obj\Debug\net5.0\SerxanConsole.pdb
+C:\Users\User\OneDrive\Documents\PROJECTS\MINE\SerxanConsole\SerxanConsole\obj\Debug\net5.0\SerxanConsole.genruntimeconfig.cache
